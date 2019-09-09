@@ -1,1 +1,1 @@
-from ApiLoot.LootGameBotApi import clientLoot
+from LootGameBotApi.LootGameApi import clientLoot
